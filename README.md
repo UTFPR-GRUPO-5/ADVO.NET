@@ -3,7 +3,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: : https://padlet.com/correab/advo-net-shrfn4leziyskryy
 
 ## 1. Introdução
 
