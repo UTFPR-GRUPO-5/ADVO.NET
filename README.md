@@ -12,18 +12,23 @@ Link do Padlet: : https://padlet.com/correab/advo-net-shrfn4leziyskryy
 Grupo 5:
 
 Nome - Arthur Aloysio Sottile Serrarens
+
 GitHub - https://github.com/Arthursottile
 
 Nome - Bruno Santos Correa
+
 GitHub - https://github.com/brunoscor
 
 Nome - Fhelipe Vinicios Dechico
+
 GitHub - https://github.com/fdechico
 
 Nome - Igor Busquim de Moraes
+
 GitHub - https://github.com/ibusquim 
 
 Nome - Rafael Spitzer Cardoso da Silva
+
 GitHub - https://github.com/RafaSpitz
 
 ***1.2.  Nome do Sistema***
