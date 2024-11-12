@@ -15,17 +15,21 @@ Nome - Arthur Aloysio Sottile Serrarens
 
 GitHub - https://github.com/Arthursottile
 
+
 Nome - Bruno Santos Correa
 
 GitHub - https://github.com/brunoscor
+
 
 Nome - Fhelipe Vinicios Dechico
 
 GitHub - https://github.com/fdechico
 
+
 Nome - Igor Busquim de Moraes
 
 GitHub - https://github.com/ibusquim 
+
 
 Nome - Rafael Spitzer Cardoso da Silva
 
