@@ -9,21 +9,36 @@ Link do Padlet: : https://padlet.com/correab/advo-net-shrfn4leziyskryy
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Grupo 5:
+
+Nome - Arthur Aloysio Sottile Serrarens 
+GitHub - https://github.com/Arthursottile
+
+Nome - Bruno Santos Correa
+GitHub - https://github.com/brunoscor
+
+Nome - Fhelipe Vinicios Dechico
+GitHub - https://github.com/fdechico
+
+Nome - Igor Busquim de Moraes
+GitHub - https://github.com/ibusquim 
+
+Nome - Rafael Spitzer Cardoso da Silva
+GitHub - https://github.com/RafaSpitz
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+ADVO.NET
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pelo *Grupo 5*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema ADVO.NET é registrar clientes/funcionários, gerenciar os processos, vinculá-los e atualizar dados de escritórios de advocacia em geral. O seu diferencial é o de aproximar o cliente da situação de seus processos, tendo uma versão mobile para a clientela e também para os funcionários.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes e escritórios de advocacia.
 
 ***1.3. Descrição dos usuários***
 
