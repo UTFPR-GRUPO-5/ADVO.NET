@@ -14,23 +14,19 @@ Grupo 5:
 Nome - Arthur Aloysio Sottile Serrarens
 
 GitHub - https://github.com/Arthursottile
-
-
+_________________________________________
 Nome - Bruno Santos Correa
 
 GitHub - https://github.com/brunoscor
-
-
+_________________________________________
 Nome - Fhelipe Vinicios Dechico
 
 GitHub - https://github.com/fdechico
-
-
+_________________________________________
 Nome - Igor Busquim de Moraes
 
 GitHub - https://github.com/ibusquim 
-
-
+_________________________________________
 Nome - Rafael Spitzer Cardoso da Silva
 
 GitHub - https://github.com/RafaSpitz
