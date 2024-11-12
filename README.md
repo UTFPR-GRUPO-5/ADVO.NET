@@ -11,7 +11,7 @@ Link do Padlet: : https://padlet.com/correab/advo-net-shrfn4leziyskryy
 
 Grupo 5:
 
-Nome - Arthur Aloysio Sottile Serrarens 
+Nome - Arthur Aloysio Sottile Serrarens
 GitHub - https://github.com/Arthursottile
 
 Nome - Bruno Santos Correa
