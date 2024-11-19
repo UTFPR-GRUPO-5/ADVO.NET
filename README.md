@@ -47,7 +47,7 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+Os usuários são em sua maioria advogados, promotores, etc e usariam-o para checar suas agendas e casos arquivado
 
 ***Personas:***
 
@@ -77,7 +77,11 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+-O Usuário pode adicionar e modificar os processos
+-O Administrador deve ser capaz de visualizar todos os processos
+-O cliente deve ser capaz de visualizar apenas os processos em que está adicionado
+-O escritório pode criar seu próprio perfil e adicionar clientes a processos
+
 
 ***2.2. Requisitos Não Funcionais***
 
