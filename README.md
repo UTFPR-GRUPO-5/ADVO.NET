@@ -78,14 +78,46 @@ Os usuários são em sua maioria advogados, promotores, etc e usariam-o para che
 ***2.1. Requisitos Funcionais***
 
 -O Usuário pode adicionar e modificar os processos
+
 -O Administrador deve ser capaz de visualizar todos os processos
+
 -O cliente deve ser capaz de visualizar apenas os processos em que está adicionado
+
 -O escritório pode criar seu próprio perfil e adicionar clientes a processos
 
+-O Cliente deve poder acompanhar a situação do seu processo
+
+-Os processos devem ser armazenados no banco de dados do escritório
+
+-O Admimistrador organizar da maneira que preferir e até arquivar processos
+
+-O Admimistrador pode ver processos antigos e arquivados no banco de dados
+
+-Os escritórios podem acessar o banco de dados em qualquer momento
+
+-O aplicativo deve enviar alertas e notificações automáticas sobre atualizações de processos tanto para clientes quanto para funcionários.
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+-O sistema deve ser intuitivo e fácil de usar por todos os tipos de usuários.
+
+-O tempo de resposta do sistema deve ser rápido, mesmo com um grande volume de dados.
+
+-O sistema deve ser robusto e evitar falhas ou perdas de dados.
+
+-Deve funcionar em diversos dispositivos e sistemas operacionais.
+
+-O sistema deve poder crescer e se adaptar conforme a demanda aumenta.
+
+-Facilitar a manutenção e atualização do sistema com códigos bem documentados.
+
+-Além da funcionalidade, deve incluir criptografia e outros métodos para garantir a confidencialidade e integridade dos dados.
+
+-Acessibilidade: Deve ser acessível a pessoas com diferentes necessidades, incluindo recursos de acessibilidade.
+
+-A aplicação deve ser facilmente transferível para diferentes ambientes de hardware e software.
+
+-Prover documentação abrangente e suporte técnico para os usuários do sistema.
 
 ***2.3. Perguntas***
 
