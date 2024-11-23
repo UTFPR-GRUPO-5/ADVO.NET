@@ -55,23 +55,33 @@ Os usuários são em sua maioria advogados, promotores, etc e usariam-o para che
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+O escritório antes sofria com uso exagerado de papel e os registros eram feitos e organizados em pastas e planilhas, tornando muito mais difícil e demorado o método de seleção e separação dos processos.
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+Depois da implementação do ADVO.NET, o escritório e os advogados coexistem de maneira mais fácil, com os processos sendo selecionados e filtrados de maneira muito mais rápida usando o sistema e largando o uso do papel desnecessário.
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+No escritório de advocacia Almeida & Fernandes, a gestão dos processos era uma tarefa árdua e cheia de desafios. João Almeida, advogado sênior, passava horas do seu dia ligando e trocando e-mails com sua equipe para atualizar os processos. Durante as reuniões externas, ele tinha dificuldades para encontrar dados recentes e era comum haver duplicidade de informações, já que os advogados registravam dados de maneira descoordenada. A comunicação constante com os clientes sobre o andamento dos casos era desgastante e consumia um tempo valioso.
+
+Maria Fernandes, uma empresária cliente do escritório, sentia-se perdida em meio à burocracia jurídica. Sem muito conhecimento dos procedimentos legais, ela precisava ligar frequentemente para o escritório em busca de atualizações sobre seu processo. Esse acompanhamento constante era estressante e consumia muito tempo, tanto para ela quanto para os advogados.
+
+Rafael Santos, administrador do sistema, enfrentava dificuldades para gerenciar as permissões de acesso e garantir a segurança das informações sensíveis do escritório. A falta de um sistema centralizado aumentava o risco de falhas de segurança, e Rafael gastava muito tempo lidando com problemas técnicos e realizando atualizações manuais em cada dispositivo.
+
+Carlos Menezes, um ex-funcionário mal-intencionado, conhecia as brechas do antigo sistema e tentava acessar informações confidenciais usando credenciais antigas. Sem um mecanismo de auditoria robusto, suas tentativas de invasão passavam despercebidas, deixando o escritório vulnerável.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Com a implementação do ADVO.NET, o escritório de advocacia Almeida & Fernandes passou por uma transformação significativa. João Almeida agora acessa e atualiza os processos de qualquer lugar, de forma ágil e eficiente. A duplicidade de informações foi eliminada, já que todas as atualizações são feitas diretamente no sistema centralizado. Os clientes recebem notificações automáticas sobre o andamento dos casos, o que reduziu drasticamente a necessidade de contatos frequentes. João pode dedicar mais tempo a atividades estratégicas e de alto valor para seus clientes.
+
+Maria Fernandes utiliza o aplicativo móvel do ADVO.NETpara acompanhar seu processo em tempo real. Com uma interface simples e intuitiva, ela entende claramente cada etapa do processo e os prazos envolvidos. As notificações automáticas a mantêm informada sem a necessidade de ligar para o escritório, tornando sua experiência muito mais tranquila e eficiente.
+
+Rafael Santos gerencia as permissões de acesso com facilidade através do ADVO.NET.O sistema inclui autenticação multifator e auditorias regulares, garantindo a segurança dos dados. Ele recebe notificações instantâneas sobre acessos suspeitos e pode bloquear tentativas de login de contas inativas imediatamente. Com menos problemas técnicos e maior segurança, Rafael pode focar em melhorias contínuas para o sistema.
+
+Carlos Menezes tenta acessar o sistema com credenciais antigas, mas é bloqueado imediatamente pelo ADVO.NET.Tentativas de acesso suspeito são notificadas a Rafael, que toma as devidas providências. A segurança robusta do ADVO.NETimpede que Carlos consiga informações ou cause qualquer dano ao escritório.
+
+Com a implementação do ADVO.NET, o escritório de advocacia Almeida & Fernandes não só aprimorou a eficiência e agilidade na gestão de processos, como também ofereceu uma experiência muito mais satisfatória e segura para clientes e colaboradores
 
 ## 2. Documentos gerais no repositório
 
