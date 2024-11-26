@@ -51,7 +51,12 @@ Os usuários são em sua maioria advogados, promotores, etc e usariam-o para che
 
 ***Personas:***
 
-![Inserir um título (2)](https://github.com/user-attachments/assets/10c2613f-056a-412f-8c5c-d1de1b97083c)
+![85679cf5-f272-455c-a643-bbc863d00b9c](https://github.com/user-attachments/assets/06e0fa83-99df-4eae-8af4-46dce47c061c)
+
+![85679cf5-f272-455c-a643-bbc863d00b9c](https://github.com/user-attachments/assets/6bdefdff-5cfd-46fe-a63e-d381dc81b232)
+
+![6b386817-2779-4841-b693-4a1387b66c24](https://github.com/user-attachments/assets/41cd28d8-a8f2-4e6a-b0a5-458df84b91ed)
+
 
 
 ***Análise da situação atual: antes da introdução de sua solução***
