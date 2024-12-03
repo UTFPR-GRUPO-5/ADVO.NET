@@ -138,8 +138,45 @@ Com a implementação do ADVO.NET, o escritório de advocacia Almeida & Fernande
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+Como você atualmente adiciona e modifica processos em seu escritório?
 
+Quão importante é para você que seus clientes possam acompanhar a situação dos seus processos online?
+
+Você vê valor em poder criar perfis personalizados do escritório e adicionar clientes a processos específicos?
+
+Como a capacidade de organizar e arquivar processos da maneira que preferir impactaria sua rotina administrativa?
+
+Quão crucial é para você que o sistema seja acessível em diversos dispositivos e sistemas operacionais?
+
+Você ou sua equipe enfrentam algum desafio com sistemas atuais em termos de usabilidade ou acessibilidade?
+
+Como você lida com necessidades de acessibilidade para membros da equipe ou clientes com diferentes necessidades?
+
+Quão útil seria receber alertas e notificações automáticas sobre atualizações de processos?
+
+Como a comunicação atual com seus clientes sobre o status dos processos poderia ser melhorada?
+
+Quais são suas principais preocupações em relação à segurança e confidencialidade dos dados no gerenciamento de processos?
+
+Como a robustez do sistema e a prevenção de falhas ou perdas de dados influenciam sua escolha de ferramentas digitais?
+
+Quão importante é para você ter documentação abrangente e suporte técnico disponível?
+
+Como a facilidade de manutenção e atualização do sistema impacta sua decisão de adotar uma nova tecnologia?
+
+Você já enfrentou problemas com lentidão ou desempenho em sistemas com grande volume de dados?
+
+Como a capacidade do sistema de crescer e se adaptar às demandas do seu escritório influencia sua adoção?
+
+Quão valioso é para você que o sistema possa ser facilmente transferido para diferentes ambientes de hardware e software?
+
+Você tem planos de mudar ou atualizar a infraestrutura tecnológica do seu escritório em breve?
+
+Quais funcionalidades você considera indispensáveis em um sistema de gestão de processos jurídicos?
+
+Você enxerga alguma limitação nos sistemas atuais que o advo.net poderia suprir?
+
+Estaria disposto a testar um novo sistema que promete atender a essas necessidades? Por quê?
 ***2.4. Entrevista***
 
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
