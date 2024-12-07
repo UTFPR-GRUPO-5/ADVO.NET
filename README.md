@@ -177,6 +177,7 @@ Quais funcionalidades você considera indispensáveis em um sistema de gestão d
 Você enxerga alguma limitação nos sistemas atuais que o advo.net poderia suprir?
 
 Estaria disposto a testar um novo sistema que promete atender a essas necessidades? Por quê?
+
 ***2.4. Entrevista***
 
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
