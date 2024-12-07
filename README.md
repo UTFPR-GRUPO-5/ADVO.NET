@@ -184,7 +184,105 @@ Estaria disposto a testar um novo sistema que promete atender a essas necessidad
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+- Adicionar e Modificar Processos
+
+História do Usuário: Como um advogado, eu quero adicionar e modificar processos, para que eu possa manter as informações atualizadas e organizadas.
+
+Critérios de Aceitação:
+
+O advogado pode criar um novo processo com detalhes específicos.
+
+O advogado pode editar os detalhes de processos existentes.
+
+- Visualizar Todos os Processos
+
+História do Usuário: Como um administrador, eu quero visualizar todos os processos, para que eu possa monitorar e gerenciar o andamento de cada caso.
+
+Critérios de Aceitação:
+
+O administrador tem acesso a uma lista de todos os processos.
+
+O administrador pode filtrar e pesquisar processos específicos.
+
+- Cliente Visualizar Processos
+
+História do Usuário: Como um cliente, eu quero visualizar os processos em que estou envolvido, para que eu possa acompanhar o andamento do meu caso.
+
+Critérios de Aceitação:
+
+O cliente pode acessar uma lista de seus processos.
+
+O cliente recebe atualizações sobre mudanças no status do processo.
+
+- Criar Perfil e Adicionar Clientes a Processos
+
+História do Usuário: Como um advogado, eu quero criar meu perfil e adicionar clientes a processos, para que eu possa organizar e gerenciar meus casos de forma eficiente.
+
+Critérios de Aceitação:
+
+O advogado pode criar e editar seu perfil.
+
+O advogado pode associar clientes a processos específicos.
+
+- Acompanhar Situação do Processo
+
+História do Usuário: Como um cliente, eu quero acompanhar a situação do meu processo, para que eu esteja sempre informado sobre o andamento do meu caso.
+
+Critérios de Aceitação:
+
+O cliente recebe notificações automáticas sobre atualizações.
+
+O cliente pode visualizar detalhes do processo em tempo real.
+
+- Sistema Intuitivo e Fácil de Usar
+
+História do Usuário: Como um cliente, eu quero que o sistema seja intuitivo e fácil de usar, para que eu possa navegar e usar suas funcionalidades sem dificuldades.
+
+Critérios de Aceitação:
+
+A interface do usuário é simples e clara.
+
+Instruções de uso são fornecidas quando necessário.
+
+- Tempo de Resposta Rápido
+
+História do Usuário: Como um advogado, eu quero que o sistema responda rapidamente, mesmo com um grande volume de dados, para que eu possa trabalhar de forma eficiente.
+
+Critérios de Aceitação:
+
+Operações comuns são concluídas em poucos segundos.
+
+O sistema é otimizado para desempenho.
+
+- Sistema Robusto e Confiável
+
+História do Usuário: Como um administrador, eu quero que o sistema seja robusto e evite falhas ou perdas de dados, para garantir a integridade das informações.
+
+Critérios de Aceitação:
+
+O sistema possui mecanismos de backup e recuperação de dados.
+
+Testes regulares de estabilidade são realizados.
+
+- Compatibilidade com Diversos Dispositivos
+
+História do Usuário: Como um cliente, eu quero que o sistema funcione em diversos dispositivos e sistemas operacionais, para que eu possa acessar minhas informações de qualquer lugar.
+
+Critérios de Aceitação:
+
+O sistema é compatível com Windows, macOS, Android e iOS.
+
+A experiência do usuário é consistente em todos os dispositivos.
+
+- Crescimento e Adaptação
+
+História do Usuário: Como um administrador, eu quero que o sistema possa crescer e se adaptar conforme a demanda aumenta, para garantir que ele continue atendendo às necessidades do escritório.
+
+Critérios de Aceitação:
+
+O sistema suporta a adição de novos usuários e dados sem degradação de desempenho.
+
+Atualizações e expansões são realizadas sem interrupções significativas.
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
