@@ -287,18 +287,20 @@ Atualizações e expansões são realizadas sem interrupções significativas.
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
 ![image](https://github.com/user-attachments/assets/90402338-6a55-4012-9185-57459efd59d9)
+
+***2.7. Diagramas de Caso de Uso e Especificações***
+
 ![image](https://github.com/user-attachments/assets/c4ce394c-32a2-4079-be42-792b546a77fb)
 
+***2.8. Diagramas de Atividades***
 
-***2.7. Diagramas de Atividades***
-
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+![image](https://github.com/user-attachments/assets/8a503cf9-2009-4cb5-9e40-d1abc2ccd219)
 
 ***2.8. Matrizes de Rastreabilidade***
 
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
-***2.9. Protótipos***
+***2.10. Protótipos***
 
 *<Imagem, arquivo (PDF), link com Protótipo.>*
 
