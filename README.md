@@ -286,7 +286,9 @@ Atualizações e expansões são realizadas sem interrupções significativas.
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+![image](https://github.com/user-attachments/assets/90402338-6a55-4012-9185-57459efd59d9)
+![image](https://github.com/user-attachments/assets/c4ce394c-32a2-4079-be42-792b546a77fb)
+
 
 ***2.7. Diagramas de Atividades***
 
