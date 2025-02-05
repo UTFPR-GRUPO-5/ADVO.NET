@@ -306,7 +306,6 @@ Atualizações e expansões são realizadas sem interrupções significativas.
 ninjamock.com/Designer/Workplace/202052707
 
 ## Referências
-
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
+(https://sottileadvocacia.com.br)
 
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
