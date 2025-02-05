@@ -300,9 +300,10 @@ Atualizações e expansões são realizadas sem interrupções significativas.
 ***2.9. Protótipos***
 
 ![WhatsApp Image 2025-02-03 at 4 44 56 PM](https://github.com/user-attachments/assets/561a396c-9c8b-411a-bc9e-dcecf0c8d670)
-![WhatsApp Image 2025-02-03 at 4 44 56 PM (1)](https://github.com/user-attachments/assets/b446ba97-bb30-432c-aa4a-363df0918f88)
 ![WhatsApp Image 2025-02-03 at 4 44 56 PM (1)](https://github.com/user-attachments/assets/00cd8165-3801-4a8c-9e37-128766be9827)
 ![WhatsApp Image 2025-02-03 at 4 44 57 PM](https://github.com/user-attachments/assets/3e4203af-9992-431a-8160-974d4ac73698)
+![WhatsApp Image 2025-02-03 at 4 44 57 PM (1)](https://github.com/user-attachments/assets/202e6135-5123-4eb1-b8d6-40fd65e62b45)
+
 
 ninjamock.com/Designer/Workplace/202052707
 
