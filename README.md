@@ -180,7 +180,8 @@ Estaria disposto a testar um novo sistema que promete atender a essas necessidad
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
+https://docs.google.com/document/d/1nbAAAQytTrbbMEm4CG7LfVMe35ww7NR3ZPaLqi5Ayto/edit?usp=sharing
+https://drive.google.com/drive/folders/1-13eKwzWgf9FTB7hL48Wp_GcGTjDoZzo?usp=sharing
 
 ***2.5. Histórias do Usuário***
 
