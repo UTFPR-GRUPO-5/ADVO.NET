@@ -289,7 +289,7 @@ Atualizações e expansões são realizadas sem interrupções significativas.
 
 ![image](https://github.com/user-attachments/assets/90402338-6a55-4012-9185-57459efd59d9)
 
-***2.7. Diagramas de Caso de Classe***
+***2.7. Diagramas de Classe***
 
 ![image](https://github.com/user-attachments/assets/c4ce394c-32a2-4079-be42-792b546a77fb)
 
